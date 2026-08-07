@@ -127,8 +127,8 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pablofellype&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_bypass=1" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablofellype&layout=compact&langs_count=7&theme=github_dark&cache_bypass=1" alt="Linguagens" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pablofellype&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pablofellype&theme=github_dark" alt="Horário Produtivo" />
   <br/><br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=github-dark&area=true" alt="Gráfico de Atividade" />
 </div>
