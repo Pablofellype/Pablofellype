@@ -39,8 +39,18 @@
 
 Atuo ativamente na **digitalização e automação de processos internos** na **Brasal Refrigerantes**. Desenvolvo soluções completas para substituir fluxos manuais e planilhas obsoletas por sistemas web robustos, performáticos e escaláveis.
 
-*   🛠️ **Full-Stack Delivery:** Atuação completa, desde a modelagem física do banco de dados relacional (`MySQL`) até a criação de interfaces modernas (`React`, `Tailwind CSS`) e infraestrutura de deploy (`Docker`).
-*   🎯 **Foco em Resultados:** Responsável pela entrega de **6 sistemas de produção**, garantindo 100% de compliance em auditorias consecutivas e eliminando mais de 12 planilhas corporativas complexas.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Full-Stack Delivery</h3>
+      Atuação completa, desde a modelagem física do banco de dados relacional <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" valign="middle" /> até a criação de interfaces modernas com <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" valign="middle" /> e <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" valign="middle" />, e a infraestrutura de deploy usando <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" valign="middle" />.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Foco em Resultados</h3>
+      Responsável pela entrega de <b>6 sistemas de produção</b>, garantindo 100% de compliance em auditorias corporativas consecutivas e eliminando mais de 12 planilhas complexas.
+    </td>
+  </tr>
+</table>
 
 ---
 
