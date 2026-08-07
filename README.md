@@ -127,7 +127,7 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D de Contribuições" />
+  <img width="98%" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/main/profile-3d-contrib/profile-night-green.svg" alt="Gráfico 3D de Contribuições" />
   <br/><br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=github-dark&area=true" alt="Gráfico de Atividade" />
 </div>
