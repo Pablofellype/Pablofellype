@@ -137,7 +137,7 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pablofellype&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=Pablofellype&background=0d1117&border=161b22&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a1a1aa&currStreakLabel=818cf8&dates=71717a" alt="Sequência de Contribuições" />
 </div>
 
 ---
