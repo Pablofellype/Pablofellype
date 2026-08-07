@@ -1,35 +1,30 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&secondaryColor=8a2be2&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
   
-  # ⚡ PABLO FELLYPE
+  <br/>
   
-  <p align="center">
-    <strong>Web Developer & Systems Integrator @ Brasal Refrigerantes</strong>
-  </p>
-
   <p align="center">
     <a href="https://pablofellype.github.io/">
-      <img src="https://img.shields.io/badge/Acessar_Portfolio_Interativo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+      <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio">
     </a>
   </p>
 
-  <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
 
   <br/>
 
-  <!-- Social Badges -->
+  <!-- Social Icons with Unified Colors -->
   <a href="https://github.com/Pablofellype">
-    <img src="https://img.shields.io/github/followers/Pablofellype?label=Seguidores&style=flat-square&color=00f2fe&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub">
   </a>
   &nbsp;
   <a href="mailto:contato@pablofellype.dev">
-    <img src="https://img.shields.io/badge/E--mail-contato%40pablofellype.dev-8a2be2?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email">
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn">
   </a>
-
 </div>
 
 <br/>
