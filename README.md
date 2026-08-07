@@ -127,17 +127,17 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/main/profile-3d-contrib/profile-night-view-animate.svg" alt="Gráfico 3D de Contribuições" />
+  <img width="98%" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D de Contribuições" />
   <br/><br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=github-dark&area=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
 
-## 🏆 Conquistas & Troféus
+## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pablofellype&theme=dracula&no-bg=true&column=4" alt="Troféus do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=Pablofellype&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 ---
