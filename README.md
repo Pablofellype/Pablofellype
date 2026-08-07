@@ -1,29 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&secondaryColor=8a2be2&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&secondaryColor=090d16&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
   
   <br/>
   
   <p align="center">
-    <a href="https://pablofellype.github.io/">
-      <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio">
+    <a href="https://portifolio-novo-orpin.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
 
   <br/>
 
   <!-- Social Icons with Unified Colors -->
-  <a href="https://github.com/Pablofellype">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub">
+  <a href="https://github.com/Pablofellype" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=818CF8" alt="GitHub">
   </a>
   &nbsp;
   <a href="mailto:contato@pablofellype.dev">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email">
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/pablo-fellype-martins-985572329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/pablo_avelino03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=818CF8" alt="Instagram">
   </a>
 </div>
 
@@ -123,8 +127,10 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pablofellype&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablofellype&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens" />
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Pablofellype&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Pablofellype&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens" />
+  <br/><br/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=tokyonight&area=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
