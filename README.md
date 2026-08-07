@@ -127,24 +127,17 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pablofellype&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pablofellype&theme=github_dark" alt="Horário Produtivo" />
+  <img width="98%" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/main/profile-3d-contrib/profile-night-view-animate.svg" alt="Gráfico 3D de Contribuições" />
   <br/><br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=github-dark&area=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
 
-## 🐍 Jogo da Cobrinha (Contribuições)
+## 🏆 Conquistas & Troféus
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablofellype/Pablofellype/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablofellype/Pablofellype/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pablofellype/Pablofellype/output/github-contribution-grid-snake.svg">
-  </picture>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Pablofellype&theme=dracula&no-bg=true&column=4" alt="Troféus do GitHub" />
 </div>
 
 ---
