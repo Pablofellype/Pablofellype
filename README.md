@@ -8,12 +8,12 @@
 
   <p align="center">
     <a href="https://pablofellype.github.io/">
-      <img src="https://img.shields.io/badge/Acessar_Portfólio_Interativo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+      <img src="https://img.shields.io/badge/Acessar_Portfolio_Interativo-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
     </a>
   </p>
 
-  <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Especialista+em+Digitalização;Desenvolvedor+Full-Stack;6+Sistemas+Completos+Entregues" alt="Typing SVG" />
+  <!-- Typing SVG Banner (Sem acentos para evitar erros de renderização) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
 
   <br/>
 
@@ -50,20 +50,20 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 <div align="center">
 
   <!-- Front-end Badges -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   
   <br/>
 
   <!-- Back-end & Tools Badges -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -104,7 +104,7 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 
 ---
 
-## 📊 Estatísticas de Contribuição
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pablofellype&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -113,11 +113,11 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 
 ---
 
-## 🐍 Contribuições (Jogo da Cobrinha)
+## 🐍 Jogo da Cobrinha (Contribuições)
 
 <div align="center">
   
-  <!-- Snake game animation -->
+  <!-- A animação da cobrinha será gerada automaticamente pelo GitHub Actions assim que você fizer o push -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablofellype/Pablofellype/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablofellype/Pablofellype/output/github-contribution-grid-snake.svg">
