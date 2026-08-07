@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfólio de Pablo - Desenvolvedor Web na Brasal Refrigerantes. Especialista na digitalização de processos internos, criação de sistemas full-stack e automação de planilhas.">
+    <title>Pablo | Web Developer & Systems Integrator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Interactive Canvas Particles Background -->
+    <canvas id="particles-canvas"></canvas>
+
+    <!-- Header / Navigation Bar -->
+    <header>
+        <div class="container navbar">
+            <a href="#" class="logo">
+                <span>&lt;</span>PABLO<span>/&gt;</span>
+            </a>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#inicio">Início</a></li>
+                    <li><a href="#projetos">Projetos</a></li>
+                    <li><a href="#tecnologias">Tecnologias</a></li>
+                    <li><a href="#terminal">Terminal</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+            <div style="display: flex; gap: 0.8rem; align-items: center;">
+                <!-- Sound Toggle -->
+                <button id="sound-toggle" class="sound-toggle-btn" title="Alternar efeitos sonoros" aria-label="Alternar efeitos sonoros">
+                    <svg viewBox="0 0 24 24"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.21.05-.42.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>
+                </button>
+                
+                <!-- Dark/Light Theme Toggle -->
+                <button id="theme-toggle" class="theme-toggle-btn" title="Alternar tema" aria-label="Alternar tema">
+                    <svg class="moon-icon" viewBox="0 0 24 24">
+                        <path d="M12.3 22h-.1c-5.5 0-10-4.5-10-10 0-4.8 3.5-8.9 8.2-9.8.5-.1 1 .3.9.8-.1.5-.5.9-1 .9-3.9 0-7 3.1-7 7s3.1 7 7 7c2.3 0 4.4-1.1 5.7-2.9.3-.4.9-.5 1.3-.2.4.3.5.9.2 1.3-1.6 2.3-4.2 3.9-7.2 3.9z"/>
+                    </svg>
+                    <svg class="sun-icon" viewBox="0 0 24 24">
+                        <path d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zM2 13h2c.55 0 1-.45 1-1s-.45-1-1-1H2c-.55 0-1 .45-1 1s.45 1 1 1zm18 0h2c.55 0 1-.45 1-1s-.45-1-1-1h-2c-.55 0-1 .45-1 1s.45 1 1 1zM11 2v2c0 .55.45 1 1 1s1-.45 1-1V2c0-.55-.45-1-1-1s-1 .45-1 1zm0 18v2c0 .55.45 1 1 1s1-.45 1-1v-2c0-.55-.45-1-1-1s-1 .45-1 1zM5.99 4.58c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41L5.99 4.58zm12.37 12.37c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41l-1.06-1.06zm1.06-10.96c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41l-1.06-1.06zM7.05 18.01c-.39-.39-1.03-.39-1.41 0s-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41l-1.06-1.06z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="container">
+        
+        <!-- Hero Section -->
+        <section id="inicio" class="hero">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span></span>Disponível para Projetos
+                </div>
+                <h1 class="hero-title">
+                    Olá, eu sou <span class="name">Pablo</span> <span class="wave">👋</span>
+                </h1>
+                <p class="hero-subtitle">
+                    Sou <strong>Desenvolvedor Web</strong> na <strong>Brasal Refrigerantes</strong>. 
+                    Especializado na digitalização de fluxos internos, construindo sistemas integrados que substituem planilhas corporativas por plataformas escaláveis do modelagem de banco ao front-end.
+                </p>
+                <div class="hero-actions">
+                    <a href="#projetos" class="btn btn-primary">
+                        Ver Projetos
+                        <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </a>
+                    <a href="#terminal" class="btn btn-secondary">
+                        Executar Terminal
+                        <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Terminal Widget Mockup -->
+            <div class="hero-visual">
+                <div class="terminal-window hero-terminal-widget">
+                    <div class="terminal-header">
+                        <div class="terminal-buttons">
+                            <span class="t-btn t-btn-red"></span>
+                            <span class="t-btn t-btn-yellow"></span>
+                            <span class="t-btn t-btn-green"></span>
+                        </div>
+                        <span class="terminal-title">pablo@brasal: ~</span>
+                    </div>
+                    <div class="terminal-body" style="font-size: 0.8rem;">
+                        <p><span class="t-prompt">pablo@brasal:~$</span> <span class="t-cmd">neofetch</span></p>
+                        <p class="t-output">
+                            <span class="t-success">Desenvolvedor:</span> Pablo Fellype<br>
+                            <span class="t-success">Corporativo:</span> Brasal Refrigerantes<br>
+                            <span class="t-success">Projetos:</span> 6 Sistemas Entregues<br>
+                            <span class="t-success">Stack:</span> JS/Node.js/MySQL/Docker<br>
+                            <span class="t-success">Status:</span> Operando a 100% de eficiência
+                        </p>
+                        <p><span class="t-prompt">pablo@brasal:~$</span> <span class="t-cmd">cat impacto.txt</span></p>
+                        <p class="t-muted">
+                            "Substituindo controles manuais por softwares que agregam inteligência e conformidade."
+                        </p>
+                        <p><span class="t-prompt">pablo@brasal:~$</span> <span class="t-cursor"></span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Impact & Metrics Section -->
+        <section class="metrics">
+            <div class="metrics-grid">
+                <div class="metric-card glass-panel">
+                    <div class="metric-number">6</div>
+                    <div class="metric-title">Sistemas Entregues</div>
+                    <div class="metric-desc">Soluções completas ponta a ponta desenvolvidas</div>
+                </div>
+                <div class="metric-card glass-panel">
+                    <div class="metric-number">12+</div>
+                    <div class="metric-title">Planilhas Eliminadas</div>
+                    <div class="metric-desc">Processos de papel/Excel migrados para web</div>
+                </div>
+                <div class="metric-card glass-panel">
+                    <div class="metric-number">100%</div>
+                    <div class="metric-title">Aprovação em Auditoria</div>
+                    <div class="metric-desc">Conformidade absoluta em auditorias consecutivas</div>
+                </div>
+                <div class="metric-card glass-panel">
+                    <div class="metric-number">Full</div>
+                    <div class="metric-title">Stack Delivery</div>
+                    <div class="metric-desc">Do banco de dados ao front-end e implantação</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projetos" class="projects-section">
+            <div class="section-header">
+                <span class="section-tag">Portfólio</span>
+                <h2 class="section-title">Sistemas Corporativos Criados</h2>
+            </div>
+
+            <!-- Dynamic Project Filters -->
+            <div class="project-filters">
+                <button class="filter-btn active" data-filter="all">Todos</button>
+                <button class="filter-btn" data-filter="Node.js">Node.js</button>
+                <button class="filter-btn" data-filter="JavaScript">JavaScript</button>
+                <button class="filter-btn" data-filter="MySQL">MySQL</button>
+                <button class="filter-btn" data-filter="PWA">PWA / Mobile</button>
+            </div>
+
+            <!-- Projects Grid -->
+            <div class="projects-grid">
+                
+                <!-- Project 1: Auditoria -->
+                <article class="project-card glass-panel" data-tech="Node.js, Express, MySQL, Docker">
+                    <div class="project-visual">
+                        <div class="mockup-canvas">
+                            <div class="mockup-dashboard">
+                                <div class="mock-titlebar">
+                                    <div class="mock-dots">
+                                        <div class="mock-dot"></div>
+                                        <div class="mock-dot"></div>
+                                        <div class="mock-dot"></div>
+                                    </div>
+                                    <span class="mock-title">Auditoria de Processos v1.2</span>
+                                </div>
+                                <div class="mock-grid">
+                                    <div class="mock-item accent-green"></div>
+                                    <div class="mock-item accent-blue"></div>
+                                    <div class="mock-item accent-purple"></div>
+                                </div>
+                                <div class="mock-chart">
+                                    <div class="mock-chart-line"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-body">
+                        <h3 class="project-title"><span class="emoji">📋</span> Auditoria e Controle</h3>
+                        <p class="project-desc">Substituição de controles manuais e planilhas por relatórios PDF em tempo real.</p>
+                        <ul class="project-features">
+                            <li>100% de conformidade obtida em auditorias.</li>
+                            <li>Automação de cálculos trimestrais.</li>
+                            <li>Alertas preditivos de pendências de dados.</li>
+                        </ul>
+                        <div class="project-tech">
+                            <span class="tech-badge">Node.js</span>
+                            <span class="tech-badge">Express</span>
+                            <span class="tech-badge">MySQL</span>
+                            <span class="tech-badge">Docker</span>
+                        </div>
+                        <button class="btn btn-secondary view-details-btn" data-project="auditoria" style="margin-top: 1.5rem; width: 100%; padding: 0.6rem;">
+                            Ver Detalhes
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Project 2: PWA Inspeção -->
+                <article class="project-card glass-panel" data-tech="Node.js, JavaScript, Tailwind CSS, MySQL, PWA">
+                    <div class="project-visual">
+                        <div class="mockup-canvas">
+                            <div class="mockup-pwa">
+                                <div class="mockup-pwa-notch"></div>
+                                <div class="mockup-pwa-body">
+                                    <div class="pwa-checklist-item">
+                                        <span class="pwa-check checked"></span> Checklist A
+                                    </div>
+                                    <div class="pwa-checklist-item">
+                                        <span class="pwa-check checked"></span> Checklist B
+                                    </div>
+                                    <div class="pwa-img-preview">
+                                        <span style="font-size: 6px; color: var(--text-muted);">[ Foto Anexo ]</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-body">
+                        <h3 class="project-title"><span class="emoji">📱</span> Inspeção Móvel (PWA)</h3>
+                        <p class="project-desc">Aplicativo web progressivo offline-first para vistorias em campo com envio de fotos.</p>
+                        <ul class="project-features">
+                            <li>Checklists integrados com câmera física.</li>
+                            <li>Três níveis hierárquicos de acesso.</li>
+                            <li>Gráficos operacionais de eficiência.</li>
+                        </ul>
+                        <div class="project-tech">
+                            <span class="tech-badge">PWA</span>
+                            <span class="tech-badge">Tailwind CSS</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">MySQL</span>
+                        </div>
+                        <button class="btn btn-secondary view-details-btn" data-project="inspecao" style="margin-top: 1.5rem; width: 100%; padding: 0.6rem;">
+                            Ver Detalhes
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Project 3: QR Code Avaliação -->
+                <article class="project-card glass-panel" data-tech="HTML, CSS, JavaScript, Node.js, Vite">
+                    <div class="project-visual">
+                        <div class="mockup-canvas">
+                            <div class="mockup-qrcode">
+                                <div class="qr-scanner">
+                                    <div class="qr-code-grid">
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot active"></div>
+                                        <div class="qr-dot"></div>
+                                        <div class="qr-dot active"></div>
+                                    </div>
+                                </div>
+                                <div class="qr-mock-chart">
+                                    <div class="qr-mock-bar"></div>
+                                    <div class="qr-mock-bar"></div>
+                                    <div class="qr-mock-bar"></div>
+                                    <div class="qr-mock-bar"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-body">
+                        <h3 class="project-title"><span class="emoji">📊</span> Avaliação por QR Code</h3>
+                        <p class="project-desc">Sistema de totens com QR Code para validação de matrículas e avaliações instantâneas.</p>
+                        <ul class="project-features">
+                            <li>Validação de chaves ERP em tempo real.</li>
+                            <li>Integração dinâmica entre 11 setores.</li>
+                            <li>Dashboards analíticos gerenciais.</li>
+                        </ul>
+                        <div class="project-tech">
+                            <span class="tech-badge">Vite</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">Node.js</span>
+                            <span class="tech-badge">HTML/CSS</span>
+                        </div>
+                        <button class="btn btn-secondary view-details-btn" data-project="qrcode" style="margin-top: 1.5rem; width: 100%; padding: 0.6rem;">
+                            Ver Detalhes
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Project 4: Portal de Materiais -->
+                <article class="project-card glass-panel" data-tech="HTML, CSS, JavaScript, Node.js">
+                    <div class="project-visual">
+                        <div class="mockup-canvas">
+                            <div class="mockup-materials">
+                                <div class="mat-sidebar"></div>
+                                <div class="mat-main">
+                                    <div class="mat-catalog">
+                                        <div class="mat-card">
+                                            <span class="mat-icon">🦺</span>
+                                            <div class="mat-name"></div>
+                                        </div>
+                                        <div class="mat-card">
+                                            <span class="mat-icon">🥾</span>
+                                            <div class="mat-name"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-body">
+                        <h3 class="project-title"><span class="emoji">📦</span> Portal de Materiais e EPIs</h3>
+                        <p class="project-desc">Painel logístico interno com catálogo digital e controle de requisição de fardamento.</p>
+                        <ul class="project-features">
+                            <li>Catálogo visual com imagens de estoque.</li>
+                            <li>Detector inteligente de pedidos duplicados.</li>
+                            <li>Rastreamento de solicitações por protocolo.</li>
+                        </ul>
+                        <div class="project-tech">
+                            <span class="tech-badge">Node.js</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">HTML5</span>
+                            <span class="tech-badge">CSS3</span>
+                        </div>
+                        <button class="btn btn-secondary view-details-btn" data-project="materiais" style="margin-top: 1.5rem; width: 100%; padding: 0.6rem;">
+                            Ver Detalhes
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Project 5: Landing Page -->
+                <article class="project-card glass-panel" data-tech="HTML, CSS, JavaScript, SEO">
+                    <div class="project-visual">
+                        <div class="mockup-canvas">
+                            <div class="mockup-landing">
+                                <div class="land-nav">
+                                    <div class="land-nav-dots">
+                                        <span class="land-nav-dot"></span>
+                                        <span class="land-nav-dot"></span>
+                                    </div>
+                                </div>
+                                <div class="land-hero">
+                                    <div class="land-text">
+                                        <div class="land-t1"></div>
+                                        <div class="land-t2"></div>
+                                        <div class="land-t3"></div>
+                                    </div>
+                                    <div class="land-graphic">
+                                        <div class="land-graphic-inner"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-body">
+                        <h3 class="project-title"><span class="emoji">🌐</span> Landing Page de Tráfego</h3>
+                        <p class="project-desc">Site institucional otimizado para alta velocidade de conversão e SEO local.</p>
+                        <ul class="project-features">
+                            <li>Design ultra responsivo.</li>
+                            <li>Pontuação elevada no PageSpeed.</li>
+                            <li>Desenvolvido e entregue em 2 semanas.</li>
+                        </ul>
+                        <div class="project-tech">
+                            <span class="tech-badge">HTML5</span>
+                            <span class="tech-badge">CSS3</span>
+                            <span class="tech-badge">JavaScript</span>
+                            <span class="tech-badge">SEO</span>
+                        </div>
+                        <button class="btn btn-secondary view-details-btn" data-project="trafego" style="margin-top: 1.5rem; width: 100%; padding: 0.6rem;">
+                            Ver Detalhes
+                        </button>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- Technologies Section -->
+        <section id="tecnologias" class="tech-section">
+            <div class="section-header">
+                <span class="section-tag">Habilidades</span>
+                <h2 class="section-title">Tecnologias Dominadas</h2>
+            </div>
+            
+            <div class="tech-grid">
+                
+                <!-- Front-End -->
+                <div class="tech-category-card glass-panel">
+                    <h3 class="tech-category-title">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                        Front-end
+                    </h3>
+                    <div class="tech-list">
+                        <div class="tech-item tech-html" title="HTML5">HTML5</div>
+                        <div class="tech-item tech-css" title="CSS3">CSS3</div>
+                        <div class="tech-item tech-js" title="JavaScript">JavaScript</div>
+                        <div class="tech-item tech-ts" title="TypeScript">TypeScript</div>
+                        <div class="tech-item tech-react" title="React">React</div>
+                        <div class="tech-item tech-tailwind" title="Tailwind CSS">Tailwind CSS</div>
+                    </div>
+                </div>
+
+                <!-- Back-End -->
+                <div class="tech-category-card glass-panel">
+                    <h3 class="tech-category-title">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01"></path></svg>
+                        Back-end
+                    </h3>
+                    <div class="tech-list">
+                        <div class="tech-item tech-node" title="Node.js">Node.js</div>
+                        <div class="tech-item tech-express" title="Express.js">Express.js</div>
+                    </div>
+                </div>
+
+                <!-- Database -->
+                <div class="tech-category-card glass-panel">
+                    <h3 class="tech-category-title">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.58 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.58 4 8 4s8-1.79 8-4M4 7c0-2.21 3.58-4 8-4s8 1.79 8 4m0 5c0 2.21-3.58 4-8 4s-8-1.79-8-4"></path></svg>
+                        Banco de Dados
+                    </h3>
+                    <div class="tech-list">
+                        <div class="tech-item tech-mysql" title="MySQL">MySQL</div>
+                    </div>
+                </div>
+
+                <!-- Tools & Infra -->
+                <div class="tech-category-card glass-panel">
+                    <h3 class="tech-category-title">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                        Ferramentas & Infra
+                    </h3>
+                    <div class="tech-list">
+                        <div class="tech-item tech-git" title="Git">Git</div>
+                        <div class="tech-item tech-github" title="GitHub">GitHub</div>
+                        <div class="tech-item tech-docker" title="Docker">Docker</div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Full Terminal Emulator Section -->
+        <section id="terminal" class="terminal-section">
+            <div class="section-header">
+                <span class="section-tag">Playground</span>
+                <h2 class="section-title">Terminal Interativo</h2>
+            </div>
+            
+            <div class="terminal-container">
+                <div class="terminal-window interactive-terminal">
+                    <div class="terminal-header">
+                        <div class="terminal-buttons">
+                            <span class="t-btn t-btn-red"></span>
+                            <span class="t-btn t-btn-yellow"></span>
+                            <span class="t-btn t-btn-green"></span>
+                        </div>
+                        <span class="terminal-title">pablo@brasal: ~/portfolio</span>
+                    </div>
+                    <div class="terminal-body" id="terminal-body">
+                        <p class="t-output">Olá! Bem-vindo ao console interativo de Pablo Fellype.</p>
+                        <p class="t-output">Digite <span class="t-success">help</span> e pressione Enter para ver a lista de comandos disponíveis.</p>
+                    </div>
+                    <div style="border-top: 1px solid var(--border-color); padding: 0.8rem 1.2rem;">
+                        <div class="terminal-input-line">
+                            <span class="t-prompt">pablo@brasal:~$</span>
+                            <input type="text" id="terminal-input" class="terminal-input" placeholder="Digite um comando..." autofocus autocomplete="off" spellcheck="false">
+                            <span class="t-cursor"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer Area -->
+    <footer id="contato">
+        <div class="container footer-content">
+            <div class="footer-links">
+                <a href="https://github.com/Pablofellype" target="_blank" class="footer-link">
+                    <svg viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.603-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.464-1.11-1.464-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.831.092-.646.35-1.086.636-1.336-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.577.688.479C19.138 20.162 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+                    GitHub
+                </a>
+                <a href="#" class="footer-link">
+                    <svg viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                    LinkedIn
+                </a>
+                <a href="mailto:contato@pablofellype.dev" class="footer-link">
+                    <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+                    Email
+                </a>
+            </div>
+            <p class="footer-text">
+                &copy; 2026 Pablo Fellype. Desenvolvido com foco em desempenho, design premium e automação.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Universal Project Modal -->
+    <div id="project-modal" class="modal">
+        <div class="modal-content glass-panel">
+            <button class="modal-close-btn" aria-label="Fechar modal">&times;</button>
+            <h3 class="modal-title">Detalhes do Projeto</h3>
+            <div class="modal-body">
+                <!-- Content injected dynamically via script.js -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
