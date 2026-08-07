@@ -130,7 +130,7 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
   <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Pablofellype&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Pablofellype&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens" />
   <br/><br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=tokyonight&area=true" alt="Gráfico de Atividade" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pablofellype&theme=github-dark&area=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
