@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;6%20Sistemas%20Entregues" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;8%20Projetos%20Entregues" alt="Typing SVG" />
 
   <br/>
 
@@ -47,7 +47,7 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Foco em Resultados</h3>
-      Responsável pela entrega de <b>6 sistemas de produção</b>, garantindo 100% de compliance em auditorias corporativas consecutivas e eliminando mais de 12 planilhas complexas.
+      Responsável pela entrega de <b>8 projetos de produção</b>, garantindo 100% de compliance em auditorias corporativas consecutivas e eliminando mais de 12 planilhas complexas.
     </td>
   </tr>
 </table>
@@ -80,49 +80,73 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 
 ## 💼 Projetos Realizados na Brasal
 
-### 📋 Sistema de Auditoria e Controle
-> **Digitalização e controle de processos de governança interna da empresa.**
-> * 📈 **Conformidade:** **100% de aprovação** em duas auditorias consecutivas e rígidas.
-> * ⚙️ **Automação:** Substituição de mais de 12 planilhas e formulários físicos, cálculo trimestral automático e alertas de preenchimento.
-> * 📄 **Exportação:** Geração de relatórios consolidados em formato PDF e registros completos para auditoria.
->
-> **Tecnologias:** 
-> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-<br/>
-
-### 📱 Plataforma PWA de Inspeção e Acompanhamento
-> **Aplicativo móvel offline-first para vistorias técnicas e acompanhamento operacional.**
-> * 🔒 **Segurança:** Sistema de acesso estruturado em três níveis (Administrador, Colaborador e Visitante).
-> * 📝 **Checklists:** Formulários interativos com câmera nativa integrada para envio imediato de fotos e evidências.
-> * 📈 **Métricas:** Geração de relatórios PDF automáticos e painel administrativo com indicadores de performance.
+### 📋 Sistema de Controle de Atividades de Limpeza e Manutenção
+> **Sistema web interno para centralizar o registro, o acompanhamento e a rastreabilidade das rotinas de limpeza e manutenção.**
+> * 📅 **Planejamento:** Planilha operacional quinzenal com regras para atividades diárias, semanais, quinzenais, mensais, trimestrais e anuais.
+> * 👥 **Perfis de acesso:** Colaboradores registram conclusões; supervisores validam áreas e atribuem tarefas; administradores e auditores controlam dados e acessos.
+> * 🔎 **Rastreabilidade:** Ocorrências com fotos, log de movimentações, atualização em tempo real, relatórios em PDF e autenticação facial opcional com prova de vida.
 >
 > **Tecnologias:**
-> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 
 <br/>
 
-### 📊 Plataforma de Avaliação por QR Code
-> **Sistema inteligente para coleta de feedbacks instantâneos nos setores corporativos.**
-> * 🎟️ **Validação:** Checagem e validação de matrículas em tempo real integradas aos dados internos.
-> * 🗺️ **Cobertura:** Integração operacional e coleta de dados entre 11 setores diferentes.
-> * 📈 **Gráficos:** Painel de controle administrativo com consolidação gráfica em tempo real.
+### 📱 Calendário DPA — Gestão de Escalas e Rotinas de Limpeza
+> **Aplicação web progressiva para planejar, executar e acompanhar as rotinas de limpeza da Diretoria de Planejamento e Administração (DPA).**
+> * 🗓️ **Organização:** Calendários mensal e semanal, múltiplos responsáveis, recorrências, filtros e movimentação de tarefas por arrastar e soltar.
+> * 📈 **Gestão:** Painel de indicadores, alertas de pendências, tarefas atrasadas, histórico administrativo e relatório mensal em PDF.
+> * 📸 **Operação:** Conclusão por matrícula e PIN com comprovação fotográfica, imagem da programação diária e módulo 3D para acompanhamento da lavação de telas.
 >
 > **Tecnologias:**
-> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/jsPDF-000000?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
 
 <br/>
 
-### 📦 Portal de Solicitação de Materiais
-> **Controle logístico e distribuição de Equipamentos de Proteção Individual (EPIs) e insumos.**
-> * 🛡️ **Segurança:** Rastreamento total de solicitações de EPIs, uniformes e fardamentos corporativos.
-> * 👁️ **Visual:** Catálogo interativo contendo imagens detalhadas dos itens em estoque.
-> * 🧠 **Inteligência:** Sistema heurístico para detecção e bloqueio de pedidos em duplicidade.
+### 📊 Avalia AI — Plataforma de Gestão de NPS
+> **Plataforma web para transformar avaliações internas em indicadores de qualidade, reconhecimento e melhoria contínua.**
+> * 📱 **Avaliações rápidas:** Notas de 0 a 10 e comentários por área, com acesso também por QR Code e controle contra avaliações duplicadas.
+> * 📈 **Indicadores:** Cálculo automático de NPS, resultados por área e profissional, metas mensais e acompanhamento individual.
+> * 🛡️ **Gestão:** Painel administrativo para validar avaliações, compartilhar resultados em imagem e proteger a sessão de acesso.
 >
 > **Tecnologias:**
-> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
 
 <br/>
+
+### 📦 Portal de Solicitações e Inventário Interno
+> **Portal web para centralizar a solicitação, o acompanhamento e a gestão de EPIs, uniformes e materiais de DML.**
+> * 🧾 **Autoatendimento:** Identificação por nome e matrícula, catálogo com tamanhos, kits padronizados, revisão do pedido e protocolo de acompanhamento.
+> * 📊 **Operação:** Monitor de pedidos em lista, tabela e Kanban, filtros, paginação, histórico, código SAP e exportação em CSV.
+> * 📦 **Inventário:** Gestão de colaboradores, fotos, contatos, catálogo de materiais e validação de planilhas Excel de reservas.
+>
+> **Tecnologias:**
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/IndexedDB-003B57?style=flat-square" />
+
+<br/>
+
+### 🛒 Gestão de Requisições de Compras
+> **Plataforma para centralizar requisições, aprovações, compras e indicadores financeiros do processo.**
+> * 💰 **Indicadores:** Dashboard com volume de requisições, valores solicitados e realizados, economia, taxa de aprovação, consumo por área e carga por comprador.
+> * 📋 **Acompanhamento:** Visualizações em tabela, Kanban, cards e calendário, com filtros, pesquisa global, ordenação e atualização de status por arrastar e soltar.
+> * 📄 **Integração:** Sincronização com Google Sheets, anexos no Google Drive, preenchimento automático por centro de custo e relatórios em PDF.
+>
+> **Tecnologias:**
+> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
+
+<br/>
+
+### 💬 Chatbot WhatsApp Multi-Conexão — Automação de Atendimento
+> **Plataforma web para centralizar atendimentos e automações de WhatsApp em múltiplos números, setores ou equipes.**
+> * 🔀 **Automação:** Editor visual de fluxos com gatilhos, menus, respostas, mídias, atrasos, links, transferência humana, versões e simulação de conversas.
+> * 💬 **Atendimento:** Caixa de conversas isolada por conexão, agenda de mensagens recorrentes, visão consolidada das automações e envio manual controlado.
+> * 📊 **Operação:** Robô de Aderências, indicadores operacionais, monitoramento de saúde e implantação com Docker Compose, backups e HTTPS automático.
+>
+> **Tecnologias:**
+> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
+
+---
+
+## 💼 Projetos Freelance
 
 ### 🌐 Landing Page para Agência de Tráfego
 > **Página institucional responsiva focada em conversão e desempenho.**
@@ -132,6 +156,16 @@ Atuo ativamente na **digitalização e automação de processos internos** na **
 > **Tecnologias:**
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logo=google&logoColor=white" />
 
+<br/>
+
+### 🗳️ Landing Page para Candidato a Deputado Distrital
+> **Página institucional responsiva para apresentação de candidatura, propostas e canais de contato.**
+> * 🎯 **Conversão:** Estrutura focada em comunicar propostas e direcionar o visitante para os canais de mobilização.
+> * 🔎 **Visibilidade:** SEO on-page e boa performance para ampliar a encontrabilidade nos mecanismos de busca.
+> * 📱 **Experiência:** Layout adaptado para dispositivos móveis, com navegação clara e carregamento rápido.
+>
+> **Tecnologias:**
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logo=google&logoColor=white" />
 ---
 
 ## 📊 Estatísticas do GitHub
