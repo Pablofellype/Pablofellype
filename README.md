@@ -1,15 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&secondaryColor=090d16&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=090d16&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
   
   <br/>
   
   <p align="center">
     <a href="https://pabloavelino.com/" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black">
+        <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
+      </picture>
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;8%20Projetos%20Entregues" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;8%20Projetos%20Entregues">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;8%20Projetos%20Entregues">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Especialista%20em%20Digitalizacao;Desenvolvedor%20Full-Stack;8%20Projetos%20Entregues" alt="Typing SVG" />
+  </picture>
 
   <br/>
 
