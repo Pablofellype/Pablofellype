@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=000000&height=240&section=header&text=PABLO%20FELLYPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%7C%20Systems%20Integrator%20%40%20Brasal%20Refrigerantes&descSize=16&descAlignY=62&descColor=f3f4f6" width="100%" alt="Header Banner" />
+  <img src="./header-animated.gif" width="100%" alt="Header Banner" />
   
   <br/>
   
