@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">PABLO FELLYPE</title>
+  <desc id="desc">Web Developer | Systems Integrator @ Brasal Refrigerantes</desc>
+  <path fill="#000000" d="M0 0h1200v202c-190-24-342-24-526-6-238 23-430 16-674-2V0z"/>
+  <text x="600" y="112" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">PABLO FELLYPE</text>
+  <text x="600" y="156" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Web Developer | Systems Integrator @ Brasal Refrigerantes</text>
+</svg>
