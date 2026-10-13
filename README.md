@@ -7,7 +7,7 @@
     <a href="https://pabloavelino.com/" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
         <img src="https://img.shields.io/badge/PORTFOLIO_INTERATIVO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
       </picture>
     </a>
